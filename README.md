@@ -15,8 +15,6 @@
 <br>
 <img src="https://skillicons.dev/icons?i=mysql,xml" />
 
-### 📊 GitHub Stats
-
 ### 👨‍💻 GitHub Analytics
 
 <p align="center">
