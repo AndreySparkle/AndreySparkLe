@@ -18,6 +18,6 @@
 ### 👨‍💻 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreySparkLe&show_icons=true&theme=radical&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreySparkLe&layout=compact&theme=radical&hide=javascript,typescript,scss"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=AndreySparkLe&show_icons=true&theme=radical&include_all_commits=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreySparkLe&layout=compact&theme=radical&hide=javascript,typescript,scss"/>
 </p>
