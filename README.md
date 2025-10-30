@@ -15,3 +15,4 @@
 <br>
 <img src="https://skillicons.dev/icons?i=mysql,xml" />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
