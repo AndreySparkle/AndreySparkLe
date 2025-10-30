@@ -1,7 +1,7 @@
 <h1 align="center">Hallo 👋, my name is Andrey</h1>
 <h3 align="center">I create in C++ and Java | FullStack enthusiast</h3>
 
-### 🛠️ Мой Tech Stack
+### 🛠️ My Tech Stack
 
 **Development Tools:**
 <br>
