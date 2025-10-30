@@ -1,5 +1,5 @@
-<h1 align="center">Привет 👋, я [Твое Имя]</h1>
-<h3 align="center">Разработчик на C++ и Java | FullStack enthusiast</h3>
+<h1 align="center">Hallo 👋, my name is Andrey</h1>
+<h3 align="center">I create in C++ and Java | FullStack enthusiast</h3>
 
 ### 🛠️ Мой Tech Stack
 
