@@ -1,5 +1,5 @@
 <h1 align="center">Hallo 👋, my name is Andrey</h1>
-<h3 align="center">I create in C++ and Java | FullStack enthusiast</h3>
+<h3 align="center">I create in JS and Java | FullStack enthusiast</h3>
 
 <h5 align="center">I am a novice developer and at the moment I am just looking for myself in any field, there are many different jobs on different topics in my profile.</h5>
 
@@ -11,7 +11,7 @@
 
 **Programming Languages:**
 <br>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,html,css" />
+<img src="https://skillicons.dev/icons?i=js,java,python,html,css" />
 
 **Databases & Markup:**
 <br>
