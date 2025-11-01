@@ -1,7 +1,7 @@
 <h1 align="center">Hallo 👋, my name is Andrey</h1>
 <h3 align="center">I create in C++ and Java | FullStack enthusiast</h3>
 
-###I am a novice developer and at the moment I am just looking for myself in any field, there are many different jobs on different topics in my profile.
+<h5 align="center">I am a novice developer and at the moment I am just looking for myself in any field, there are many different jobs on different topics in my profile.</h5>
 
 ### 🛠️ My Tech Stack
 
