@@ -7,7 +7,7 @@
 
 **Development Tools:**
 <br>
-<img src="https://skillicons.dev/icons?i=vscode,git,androidstudio,unreal" />
+<img align="center" src="https://skillicons.dev/icons?i=vscode,git,androidstudio,unreal" />
 
 **Programming Languages:**
 <br>
