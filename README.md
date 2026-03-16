@@ -11,7 +11,7 @@
 
 **Programming Languages:**
 <br>
-<img src="https://skillicons.dev/icons?i=js,java,html,css,Cpp" />
+<img src="https://skillicons.dev/icons?i=js,java,html,css,c++" />
 
 **Databases & Markup:**
 <br>
