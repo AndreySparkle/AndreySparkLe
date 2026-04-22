@@ -1,61 +1,79 @@
 <h1 align="center">Привет, я Андрей 👋</h1>
-<h3 align="center">Game Developer • C++ • Unreal Engine 5 • 3D Artist • Content Creator</h3>
+<h3 align="center">🎮 Game Developer • 💻 C++ • 🧠 Unreal Engine 5 • 🎨 3D Artist • 🎥 Content Creator</h3>
 
 ---
 
-### 👨‍💻 Обо мне
-- 🎮 Разрабатываю собственные игровые проекты
-- 💻 Изучаю и использую **C++**, **Unreal Engine 5**
-- 🧩 Занимаюсь **3D-моделированием** и визуалом
-- 🎥 Снимаю видео и делаю творческий контент
-- 🚀 Сейчас фокус: **геймдев, архитектура проекта, боевые механики и визуальный стиль**
+## 👨‍💻 Обо мне
+
+- 🎮 Разрабатываю собственные игровые проекты  
+- 💻 Работаю с **C++** и **Unreal Engine 5**  
+- 🎨 Занимаюсь **3D-моделированием (Blender)** и визуалом  
+- 🧠 Люблю продумывать игровые механики и архитектуру  
+- 🎥 Делаю контент и развиваюсь в медиа  
+
+🚀 Сейчас фокус:
+- Башни и механики (Tower Defense проект)
+- Генерация карты
+- Эксперименты с AI в играх
 
 ---
 
-### 🛠️ Технологии и инструменты
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,python,unreal,blender,git,github,vscode,visualstudio,photoshop" />
-</p>
+## 🛠️ Технологии и инструменты
 
----
-
-### 📊 Моя статистика GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,unreal,blender,git,github,vscode,visualstudio,photoshop" />
 </p>
 
 ---
 
-### 🔥 Активность
+## 📊 GitHub статистика
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ТВОЙ_НИК&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AndreySparkle&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreySparkle&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-### 🏆 Достижения
+## 🔥 Активность
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ТВОЙ_НИК&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://streak-stats.demolab.com?user=AndreySparkle&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📌 Чем я занимаюсь сейчас
-- Разработка игровых механик
-- Эксперименты с AI / gameplay ideas
-- Работа с 3D и визуалом для проектов
-- Прокачка C++ и архитектуры игровых систем
+## 🏆 Достижения
 
----
-
-### 🌐 Ссылки
-<p>
-  <a href="ТВОЯ_ССЫЛКА_НА_YOUTUBE">YouTube</a> •
-  <a href="ТВОЯ_ССЫЛКА_НА_DISCORD_ИЛИ_САЙТ">Discord / Portfolio</a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AndreySparkle&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-### 🐍 Snake eating my contributions
-![snake gif](https://github.com/ТВОЙ_НИК/ТВОЙ_НИК/blob/output/github-contribution-grid-snake-dark.svg)
+## 📌 Сейчас в работе
+
+- 🎯 Tower Defense проект на UE5  
+- 🧩 Система башен через мастер-блюпринты  
+- 💣 Снаряды и логика попаданий  
+- 🤖 Идея обучения AI играть в мою игру  
+
+---
+
+## 🌐 Связь
+
+<p align="center">
+  <a href="#">YouTube</a> •
+  <a href="#">Portfolio</a> •
+  <a href="#">Discord</a>
+</p>
+
+---
+
+## 🐍 Моя активность (Snake)
+
+<p align="center">
+  <img src="https://github.com/AndreySparkle/AndreySparkle/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
