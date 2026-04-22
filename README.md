@@ -64,6 +64,6 @@
 
 <p align="center">
   <a href="#">YouTube - My vlog channel</a> •
-  <a href="https://www.youtube.com/@Astrailstudio">YouTube - Astrail Studio</a> •
+  <a href="https://www.youtube.com/@Astrailstudio">YouTube - Astrail Studio</a> 
 </p>
 
