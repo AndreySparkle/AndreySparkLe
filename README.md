@@ -60,17 +60,16 @@
 
 ---
 
-## 🌐 Связь
+## 🌐 Мои сот сети
 
 <p align="center">
-  <a href="#">YouTube</a> •
-  <a href="#">Portfolio</a> •
-  <a href="#">Discord</a>
+  <a href="#">YouTube - My vlog channel</a> •
+  <a href="#https://www.youtube.com/@Astrailstudio">YouTube - Astrail Studio</a> •
 </p>
 
 ---
 
-## 🐍 Моя активность (Snake)
+## 🐍 Вот такой я активный
 
 <p align="center">
   <img src="https://github.com/AndreySparkle/AndreySparkle/blob/output/github-contribution-grid-snake-dark.svg" />
