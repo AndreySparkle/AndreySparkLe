@@ -35,18 +35,18 @@
 
 ---
 
-## 🔥 Активность
+## 🐍 Вот такой я активный
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AndreySparkle&theme=tokyonight&hide_border=true" />
+  <img src="https://github.com/AndreySparkle/AndreySparkle/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 🏆 Достижения
+## 🔥 Активность
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AndreySparkle&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://streak-stats.demolab.com?user=AndreySparkle&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -67,12 +67,3 @@
   <a href="https://www.youtube.com/@Astrailstudio">YouTube - Astrail Studio</a> •
 </p>
 
----
-
-## 🐍 Вот такой я активный
-
-<p align="center">
-  <img src="https://github.com/AndreySparkle/AndreySparkle/blob/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
